@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+/* body */
+#wrap {
+    width: 1200px;
+    margin-left: 400px;
+}
+
+/* head */
+
+/*ロゴの大きさ*/
+header {
+    margin: 0px 150px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid black;
+}
+
+.head-logo img {
+    width: 180px;
+    height: auto;
+}
+
+/* contents */
+.content h1 {
+    padding-top: 20px;
+}
+
+dt{
+}
+
+dd {
+    padding-bottom: 30px;
+}
+
+.error {
+    color: red;
+}
