@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <div class="head-logo">
+        <div class="logo">
             <a href="index.php"><img src="../images/logo1.PNG" alt="logo"></a>
         </div>
     </header>
@@ -18,7 +18,7 @@
     <div id="wrap">
         <div class="content">
             <h1>会員登録</h1>
-            <p>ユーザー登録が完了しました</p>
+            <p>パスワードが変更されました</p>
             <p><a href="../">ログインする</a></p>
         </div>
     </div>
